@@ -64,5 +64,19 @@ AI / ML Analytics
 Blockchain / Audit Layer
      ↓
 Administrator Dashboard
+
+
+This stays consistent with the PPT's stated architecture, technology stack, expected output, and human-in-the-loop approach. :contentReference[oaicite:1]{index=1}
+
+---
+
+# 3️⃣ VERY IMPORTANT — Change the team names
+
+At the bottom you'll see:
+
+```text
+Student 1 | Navyashree.K 20231CSG0078
+Student 2 | Shravani.G 20231CSG0114
+Student 3 | Yamuna.V 20231CSG0092
      ↓
 Decision Support
